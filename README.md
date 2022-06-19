@@ -17,7 +17,7 @@ run pip install -r requirements.txt
 <img width="907" alt="Screen Shot 2022-04-03 at 3 35 27 PM" src="https://user-images.githubusercontent.com/98444459/161445246-d4eecac4-44ae-452f-8e0c-ebaa9e523908.png">
 
 2. Run a git clone command in your terminal or git bash under the desired local directory
-<img width="689" alt="Screen Shot 2022-05-25 at 1 39 17 AM" src="https://user-images.githubusercontent.com/98444459/170187991-6383aedf-cc47-4550-97f8-54262253043e.png">
+<img width="766" alt="Screen Shot 2022-06-18 at 5 09 13 PM" src="https://user-images.githubusercontent.com/98444459/174460708-4206527c-585d-4148-bde4-454fc78f6e16.png">
 
 3. If you receive errors, please review the dependencies above, install them and try again. 
 
@@ -27,11 +27,11 @@ run pip install -r requirements.txt
 
 1. Navigate to the directory in either the Terminal or GitBash. 
 
-2. From the top folder (Challenge_12), launch jupyter lab by typing 'jupyter lab' into Terminal or Gitbash and pressing 'Enter'
+2. From the top folder (Challenge_13), launch jupyter lab by typing 'jupyter lab' into Terminal or Gitbash and pressing 'Enter'
 <img width="570" alt="Screen Shot 2022-05-08 at 1 56 51 PM" src="https://user-images.githubusercontent.com/98444459/167309092-db3b1a32-49bf-4a3c-a7d7-cc9674d32d38.png">
 
-3. Open the 'credit_risk_resampling.ipynb' notebook and follow the instructions therein.  
-<img width="367" alt="Screen Shot 2022-06-12 at 8 22 24 PM" src="https://user-images.githubusercontent.com/98444459/173268248-d01530c1-b951-449b-a263-2a890b582fc9.png">
+3. Open the 'venture_funding_with_deep_learning.ipynb' notebook and follow the instructions therein.  
+<img width="451" alt="Screen Shot 2022-06-18 at 5 10 26 PM" src="https://user-images.githubusercontent.com/98444459/174460741-4f70bc2f-ada6-4fb8-891f-8f1fe831b2bc.png">
 
 ---
 
