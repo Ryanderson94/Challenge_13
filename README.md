@@ -1,6 +1,6 @@
 # Venture Funding with Deep Learning
 
-TO BE COMPLETED
+In this program, we leverage machine learning (ML) and neural networks to create a binary classifier model, in an effort to predict whether a business will be successful or not. This program leverages three distict neural networks to compare their effectiveness at fitting data. The first neural network leverages two hidden layers, and only relu functions for neuron activation. The second levearges three hidden layers and a combination of tanh and linear activation functions. The final leverages seven hidden layers with a combination of tanh, linear, relu and sigmoid activation functions. Each model is compiled in the same way; we measure loss with binary crossentropy, leverage an adam optimizer and measure accuracy as the performance metric. The third model performed best with 73.1% accuracy, followed by the second model and the first model. For a more detailed view at the model performance, please review the files in the resource folder.
 
 # Technologies
 
