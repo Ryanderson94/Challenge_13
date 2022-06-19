@@ -34,35 +34,6 @@ run pip install -r requirements.txt
 <img width="367" alt="Screen Shot 2022-06-12 at 8 22 24 PM" src="https://user-images.githubusercontent.com/98444459/173268248-d01530c1-b951-449b-a263-2a890b582fc9.png">
 
 ---
-# Credit Report Analysis
-
-## Overview of the Analysis 
-
-The purpose of this analysis is to determine if a model created to validate the likelihood of default of borrowers using two different datasets. The first is an imbalanced dataset, and the second is resampled dataset. The datasets analyzed contained information on loan size, interest rate, debt-to-income ratio, income, derogatory marks, number of accounts and total debt with a final outcome variable of their loan status (approved or rejected). 
-
-In the first dataset, we have 75036 rejected loans and 2500 approved loans. This, of course, is what we consider an imbalanced dataset.
-In the second dataset, we have 56271 rejected and the same number of approved loans. This is our resampled dataset. 
-
-For the imbalanced dataset, we split the data into training and testing data. We then instantiated the linear regression model, fit the training data to the model, made predictions for our testing data outcomes and then evaluated performance with a confusion matrix and accuracy score.
-For the resampled dataset, we used RandomOverSampler to resample the data, we fit the model using a resample fit function, then we apply a logistic regression to the resampled data, make predictions and evaluate performance with a confusion matrix and accuracy score. 
-
-## Results
-
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
-
-* Machine Learning Model 1:
-  * Accuracy Score: 95%
-  * Precision: 85%
-  * Recall: 91%
-
-
-* Machine Learning Model 2:
-  * Accuracy Score: 99%
-  * Precision: 84%
-  * Recall: 99%
-
-## Summary
-Based on the above scores, I would recommend using the model built with the resampled data. It has a higher accuracy, better score for recall and is close to the same level of precision. The only concern I would express around this model is the fact that the recall score is so high, it has the potential to be overfit. 
 
 ## Contributors
 
